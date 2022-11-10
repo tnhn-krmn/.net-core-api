@@ -1,0 +1,17 @@
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\bin\Debug\net5.0\HospitalProject.Business.deps.json
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\bin\Debug\net5.0\HospitalProject.Business.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\bin\Debug\net5.0\HospitalProject.Business.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\bin\Debug\net5.0\HospitalProject.DataAccess.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\bin\Debug\net5.0\HospitalProject.Entity.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\bin\Debug\net5.0\HospitalProject.DataAccess.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\bin\Debug\net5.0\HospitalProject.Entity.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\obj\Debug\net5.0\HospitalProject.Business.csproj.AssemblyReference.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\obj\Debug\net5.0\HospitalProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\obj\Debug\net5.0\HospitalProject.Business.AssemblyInfoInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\obj\Debug\net5.0\HospitalProject.Business.AssemblyInfo.cs
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\obj\Debug\net5.0\HospitalProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\obj\Debug\net5.0\HospitalProject.Business.csproj.CopyComplete
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\obj\Debug\net5.0\HospitalProject.Business.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\obj\Debug\net5.0\refint\HospitalProject.Business.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\obj\Debug\net5.0\HospitalProject.Business.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Business\obj\Debug\net5.0\ref\HospitalProject.Business.dll

@@ -1,0 +1,12 @@
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\bin\Debug\net5.0\HospitalProject.Entity.deps.json
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\bin\Debug\net5.0\HospitalProject.Entity.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\bin\Debug\net5.0\HospitalProject.Entity.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\obj\Debug\net5.0\HospitalProject.Entity.csproj.AssemblyReference.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\obj\Debug\net5.0\HospitalProject.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\obj\Debug\net5.0\HospitalProject.Entity.AssemblyInfoInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\obj\Debug\net5.0\HospitalProject.Entity.AssemblyInfo.cs
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\obj\Debug\net5.0\HospitalProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\obj\Debug\net5.0\HospitalProject.Entity.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\obj\Debug\net5.0\refint\HospitalProject.Entity.dll
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\obj\Debug\net5.0\HospitalProject.Entity.pdb
+C:\Users\tunah\OneDrive\Masaüstü\e-commerce-project\HospitalProject\HospitalProject.Entity\obj\Debug\net5.0\ref\HospitalProject.Entity.dll
